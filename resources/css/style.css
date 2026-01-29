@@ -5,3 +5,8 @@
 footer {
   font-size: 10px;
 }
+
+.navmenu {
+  display: flex;
+  font-style: italic;
+}
